@@ -1,1 +1,1 @@
-# single-precision-
+# IEE-754-single-precision-floating-point
